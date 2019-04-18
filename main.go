@@ -17,11 +17,11 @@
 package main
 
 import (
-	"pmm-ruled/batch"
-	"pmm-ruled/common"
-	"pmm-ruled/exporter"
-	"pmm-ruled/handler"
-	"pmm-ruled/model"
+	"batch"
+	"common"
+	"exporter"
+	"handler"
+	"model"
 
 	"golang.org/x/sync/errgroup"
 )
